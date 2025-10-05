@@ -82,7 +82,7 @@ Click "Past Issues" to see a bar chart of:
 
 Sign up first to create an account, then you can log in.
 
-© 2025 [Your Name or Developer Alias]. All rights reserved.
+© 2025 Vivan Bakane. All rights reserved.
 
 This software, "Your WELLcome - Health Checker App", and its associated files are the intellectual property of the developer.
 
