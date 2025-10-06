@@ -44,7 +44,7 @@ TIME_LIST = []
 P_LIST = []
 
 root = tk.CTk()
-root.title("Your WELLcome")
+root.title("you’re WELLcome")
 
 img = tk.CTkImage(light_image=Image.open("C:/Users/super/Downloads/fil.png"), size=(100, 100))
 
@@ -57,7 +57,7 @@ frame2 = tk.CTkFrame(master=root, fg_color="#ffffff", height=900, width=900)
 frame2.configure(height=900, width=900)
 frame2.pack(padx=10, pady=50)
 
-t1 = tk.CTkLabel(master=frame2, text="Your WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
+t1 = tk.CTkLabel(master=frame2, text="you’re WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
 t1.pack(padx=10, pady=10)
 
 h1 = tk.CTkLabel(master=frame2, text="Login Page", fg_color="#008080", font=("Trebuchet MS", 30), text_color="Black", corner_radius=10, anchor="center")
@@ -129,7 +129,7 @@ frame2S = tk.CTkFrame(master=root, fg_color="#ffffff", height=900, width=900)
 frame2S.configure(height=900, width=900)
 frame2S.pack_forget()
 
-t1S = tk.CTkLabel(master=frame2S, text="Your WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
+t1S = tk.CTkLabel(master=frame2S, text="you’re WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
 t1S.pack(padx=10, pady=10)
 
 h1S = tk.CTkLabel(master=frame2S, text="Sign Up Page", fg_color="#008080", font=("Trebuchet MS", 30), text_color="Black", corner_radius=10, anchor="center")
@@ -196,7 +196,7 @@ frame3.pack_forget()
 
 
 
-title_main = tk.CTkLabel(master=frame3, text="Your WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
+title_main = tk.CTkLabel(master=frame3, text="you’re WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
 title_main.pack(padx=10, pady=10)
 
 imagel = tk.CTkLabel(master=frame3, image=img, text="")
@@ -257,7 +257,7 @@ Past.pack(padx=25, pady=20)
 frame5 = tk.CTkFrame(master=root, fg_color="#ffffff", height=900, width=900)
 frame5.pack_forget()
 
-title_main = tk.CTkLabel(master=frame5, text="Your WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
+title_main = tk.CTkLabel(master=frame5, text="you’re WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
 title_main.pack(pady=10)
 
 imagell = tk.CTkLabel(master=frame5, image=img, text="")
@@ -338,7 +338,7 @@ b1.pack(padx=10, side="left")
 frame7 = tk.CTkFrame(master=root, fg_color="#ffffff", height=900, width=900)
 frame7.pack_forget()
 
-title_main2 = tk.CTkLabel(master=frame7, text="Your WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
+title_main2 = tk.CTkLabel(master=frame7, text="you’re WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
 title_main2.pack(padx=10, pady=10)
 
 imagell = tk.CTkLabel(master=frame7, image=img, text="")
@@ -400,7 +400,7 @@ n4.pack(padx=10)
 frame8 = tk.CTkFrame(master=root, fg_color="#ffffff", height=900, width=900)
 frame8.pack_forget()
 
-title_main = tk.CTkLabel(master=frame8, text="Your WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
+title_main = tk.CTkLabel(master=frame8, text="you’re WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
 title_main.pack(padx=10, pady=10)
 
 imagell = tk.CTkLabel(master=frame8, image=img, text="")
@@ -456,7 +456,7 @@ n8.pack(padx=10, side="right")
 frame9 = tk.CTkFrame(master=root, fg_color="#ffffff", height=900, width=900)
 frame9.pack_forget()
 
-title_main = tk.CTkLabel(master=frame9, text="Your WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
+title_main = tk.CTkLabel(master=frame9, text="you’re WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
 title_main.pack(padx=10, pady=10)
 
 imagell = tk.CTkLabel(master=frame9, image=img, text="")
@@ -552,7 +552,7 @@ n9.pack(padx=10, side="right")
 frame92 = tk.CTkFrame(master=root, fg_color="#ffffff", height=900, width=900)
 frame92.pack_forget()
 
-title_main = tk.CTkLabel(master=frame92, text="Your WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
+title_main = tk.CTkLabel(master=frame92, text="you’re WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
 title_main.pack(padx=10, pady=10)
 
 imagell = tk.CTkLabel(master=frame92, image=img, text="")
@@ -581,7 +581,7 @@ spas2.pack(padx=10, pady=40)
 frame10 = tk.CTkFrame(master=root, fg_color="#ffffff", height=900, width=900)
 frame10.pack_forget()
 
-title_main = tk.CTkLabel(master=frame10, text="Your WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
+title_main = tk.CTkLabel(master=frame10, text="you’re WELLcome", fg_color="#008080", font=("Trebuchet MS", 60), text_color="Black", corner_radius=10, anchor="center")
 title_main.pack(padx=10, pady=10)
 
 imagell = tk.CTkLabel(master=frame10, image=img, text="")
@@ -651,5 +651,6 @@ s.pack(pady=10)
 
 n10 = tk.CTkButton(master=frame10, text="Back To Home", width=100, height=50, corner_radius=10, font=("Lucida Console", 20), fg_color="#008090", hover=True, border_color="Blue", border_width=5, command=nextfinal)
 n10.pack(pady=10)
+
 
 root.mainloop()
