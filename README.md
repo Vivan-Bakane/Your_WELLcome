@@ -1,6 +1,6 @@
-# 🩺 Your WELLcome - Health Checker App
+# 🩺 You’re WELLcome - Health Checker App
 
-A simple health app built with Python. It helps you check your symptoms using AI and shows suggestions.
+A simple health app built with Python. It helps you check You’re symptoms using AI and shows suggestions.
 
 ---
 
@@ -9,7 +9,7 @@ A simple health app built with Python. It helps you check your symptoms using AI
 - Easy login and sign-up
 - Enter symptoms and get AI suggestions
 - View past health issues in a bar chart
-- Stores your info locally
+- Stores You’re info locally
 
 ---
 
@@ -42,8 +42,8 @@ python main.py
 ```
 
 2. Sign up and log in
-3. Enter your health info
-4. See AI results and your health history
+3. Enter You’re health info
+4. See AI results and You’re health history
 
 ---
 
@@ -84,7 +84,7 @@ Sign up first to create an account, then you can log in.
 
 © 2025 Vivan Bakane. All rights reserved.
 
-This software, "Your WELLcome - Health Checker App", and its associated files are the intellectual property of the developer.
+This software, "You’re WELLcome - Health Checker App", and its associated files are the intellectual property of the developer.
 
 Unauthorized copying, distribution, modification, or use of this software, in whole or in part, is strictly prohibited without prior written permission from the owner.
 
